@@ -1,47 +1,133 @@
 {
-  "businessName": "Sample Business",
-  "tagline": "Quality Service You Can Trust",
+  "businessName": "Rudy's of Glendale",
+  "tagline": "Classic Cuts, Modern Style",
   "hero": {
-    "heading": "Welcome to Our Business",
-    "subheading": "Professional service in your area.",
-    "ctaText": "Contact Us",
-    "ctaLink": "#contact"
+    "heading": "Your Neighborhood Barbershop",
+    "subheading": "Where tradition meets modern grooming. Experience the best cuts in Glendale since day one.",
+    "ctaText": "Book Your Cut",
+    "ctaLink": "tel:8185500444",
+    "backgroundImage": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer34fmv0KkgNMxTiv61xmDBsfQMkHjLRZ1Bpnj3Z8vRu7c9jHTWgN5DguS_Arp5fq7Gk3uKBUEk5hctIjb7RTbrH9UPsakZo28DGcr76mkCvUANFL-YMqS44hz4eguMziIq5zPCdA=w1200-h800-k-no"
   },
   "about": {
-    "heading": "About Us",
+    "heading": "A Cut Above the Rest",
     "paragraphs": [
-      "We are a local business dedicated to providing quality service.",
-      "Our team has years of experience and we take pride in our work."
+      "Rudy's of Glendale has been the go-to barbershop for men who appreciate the art of a great haircut. Located in the heart of Downtown Glendale, we combine old-school barbering traditions with modern techniques to deliver the perfect cut every time.",
+      "Our skilled barbers take pride in creating styles that match your personality. Whether you're looking for a classic taper, a clean fade, or a hot towel shave, we've got you covered. Walk-ins are always welcome.",
+      "With a 4.5-star rating and over 65 five-star reviews, Rudy's is where Glendale comes for its best haircuts. Step into our chair and see the difference a real barber makes."
     ]
   },
   "services": [
-    { "title": "Service One", "description": "Professional service with attention to detail.", "icon": "star" },
-    { "title": "Service Two", "description": "Quality work at competitive prices.", "icon": "award" },
-    { "title": "Service Three", "description": "Fast, reliable, and thorough.", "icon": "check" }
+    {
+      "title": "Classic Haircut",
+      "description": "Precision cut with clippers and shears, finished with a hot towel and styling. Our signature service for the modern gentleman.",
+      "icon": "Scissors"
+    },
+    {
+      "title": "Beard Trim & Shape",
+      "description": "Expert beard grooming including trim, line-up, and hot towel treatment. Keep your beard looking sharp between visits.",
+      "icon": "Brush"
+    },
+    {
+      "title": "Fade & Taper",
+      "description": "Skin fades, mid fades, and tapers blended to perfection. From subtle to bold — we master every gradient.",
+      "icon": "Layers"
+    },
+    {
+      "title": "Hot Towel Shave",
+      "description": "Traditional straight razor shave with hot lather, warm towels, and aftershave balm. The ultimate grooming experience.",
+      "icon": "Flame"
+    },
+    {
+      "title": "Kids' Haircut",
+      "description": "Patient, skilled cuts for the little ones. We make sure every kid leaves the chair happy and looking sharp.",
+      "icon": "Star"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "David M.",
+      "text": "Best barbershop in Glendale, hands down. Rudy knows exactly how to handle every hair type. I've been coming here for years and never once been disappointed.",
+      "rating": 5
+    },
+    {
+      "name": "Alex K.",
+      "text": "Great atmosphere, skilled barbers, and always a clean fade. The hot towel shave is unreal — you feel like a new man walking out.",
+      "rating": 5
+    },
+    {
+      "name": "Mike T.",
+      "text": "Finally found a barbershop that gets it right every time. No rushing, no cutting corners. They take their time and the results speak for themselves.",
+      "rating": 5
+    },
+    {
+      "name": "Robert S.",
+      "text": "Walked in as a new customer and they treated me like family. Fair prices, incredible skill, and the shop has a great vibe. Highly recommend.",
+      "rating": 4
+    },
+    {
+      "name": "Carlos R.",
+      "text": "The fade work here is next level. Clean lines, smooth blends. This is what a real barbershop experience should be.",
+      "rating": 5
+    },
+    {
+      "name": "James W.",
+      "text": "I drive 30 minutes just to come here. That should tell you everything you need to know about the quality at Rudy's.",
+      "rating": 5
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Do I need an appointment?",
+      "answer": "Walk-ins are always welcome! We serve customers on a first-come, first-served basis. For the shortest wait, visit us on weekday mornings."
+    },
+    {
+      "question": "What are your hours?",
+      "answer": "We're open Monday 9 AM–3 PM, Tuesday through Friday 7 AM–5 PM, and Saturday 8 AM–3 PM. Closed on Sundays."
+    },
+    {
+      "question": "Do you cut kids' hair?",
+      "answer": "Absolutely! We love working with kids and make sure they have a comfortable, fun experience in the chair."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept cash and all major credit cards for your convenience."
+    }
   ],
   "contact": {
-    "address": "123 Main St, City, ST 12345",
-    "phone": "(555) 123-4567",
-    "email": "info@sample.com",
+    "address": "109 W California Ave, Glendale, CA 91203",
+    "phone": "(818) 550-0444",
+    "email": "info@rudysofglendale.com",
     "hours": {
-      "Monday": "9:00 AM - 5:00 PM",
-      "Tuesday": "9:00 AM - 5:00 PM",
-      "Wednesday": "9:00 AM - 5:00 PM",
-      "Thursday": "9:00 AM - 5:00 PM",
-      "Friday": "9:00 AM - 5:00 PM",
-      "Saturday": "10:00 AM - 3:00 PM",
+      "Monday": "9:00 AM - 3:00 PM",
+      "Tuesday": "7:00 AM - 5:00 PM",
+      "Wednesday": "7:00 AM - 5:00 PM",
+      "Thursday": "7:00 AM - 5:00 PM",
+      "Friday": "7:00 AM - 5:00 PM",
+      "Saturday": "8:00 AM - 3:00 PM",
       "Sunday": "Closed"
     },
-    "mapEmbedQuery": "123+Main+St+City+ST"
+    "mapEmbedQuery": "Rudy's of Glendale, 109 W California Ave, Glendale CA 91203"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/p/Rudys-of-Glendale-Barbershop-100063748323962/",
+    "instagram": "https://www.instagram.com/explore/locations/319324325/rudys-of-glendale-barbershop/"
   },
   "seo": {
-    "title": "Sample Business | City, ST",
-    "description": "Sample Business in City, ST. Professional services you can trust.",
-    "keywords": ["sample business", "city ST", "professional services"]
+    "title": "Rudy's of Glendale | Barbershop in Downtown Glendale, CA",
+    "description": "Classic barbershop in Downtown Glendale offering haircuts, fades, beard trims, and hot towel shaves. 4.5 stars, 65+ reviews. Walk-ins welcome.",
+    "keywords": [
+      "barbershop glendale",
+      "barber glendale ca",
+      "haircut glendale",
+      "fade glendale",
+      "beard trim glendale",
+      "rudys barbershop",
+      "downtown glendale barber"
+    ]
   },
   "theme": {
-    "primaryColor": "#0a0a0a",
-    "accentColor": "#c8a97e",
+    "primaryColor": "#1a1a2e",
+    "accentColor": "#e8b931",
     "fontFamily": "modern"
   }
 }
